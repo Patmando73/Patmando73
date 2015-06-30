@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Definitions"
+date: 2015-06-10
+categories: code
+---
+
+
 ##What is a class?
 A class is a blueprint for creating objects.
 

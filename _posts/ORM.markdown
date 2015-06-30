@@ -1,3 +1,12 @@
+---
+layout: post
+title: "ORM"
+date: 2015-06-10
+categories: code
+---
+
+
+
 #What is an ORM?
 An ORM is a model used to interact with the database using an object. This is done first by getting rows back from the 
 database as hashes and converting these hashes into objects. We can then use these objects interact with the rest of our
