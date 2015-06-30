@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Definitions"
-date: 2015-06-10
+date: 2015-06-29
 categories: code
 ---
 
