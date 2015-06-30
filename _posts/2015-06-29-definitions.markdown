@@ -13,12 +13,13 @@ A class is a blueprint for creating objects.
 
 
 ##What is a model?
-A model is a ruby class that is used to initialize an object.
+A model is a class used to connect to a database
 
 
 
 ##What is a method?
-A method is a way to manipulate or interact with the data from a class or object.
+A method is a block of code that is used frequently to returns a value. Methods are part of a class and can
+be used on class objects
 
 
 

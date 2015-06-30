@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5cbf3bf9-73d0-4acb-ad37-eb664042f0fd" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/ORM.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-29-ORM.markdown" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/definitions.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-29-definitions.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-29-ORM.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-29-ORM.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-06-29-definitions.markdown" afterPath="$PROJECT_DIR$/_posts/2015-06-29-definitions.markdown" />
     </list>
     <ignored path="Patricks_blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,8 +40,8 @@
       <file leaf-file-name="2015-06-29-ORM.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-ORM.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.06686478">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.21991085">
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -53,8 +53,8 @@
       <file leaf-file-name="2015-06-29-definitions.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-definitions.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0344827">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state vertical-scroll-proportion="-7.7586207">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -74,6 +74,7 @@
         <option value="$PROJECT_DIR$/_posts/definitions.markdown" />
         <option value="$PROJECT_DIR$/_posts/ORM.markdown" />
         <option value="$PROJECT_DIR$/_posts/2015-06-29-ORM.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2015-06-29-definitions.markdown" />
       </list>
     </option>
   </component>
@@ -327,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-definitions.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0344827">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state vertical-scroll-proportion="-7.7586207">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -338,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-06-29-ORM.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06686478">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.21991085">
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
           <folding />
         </state>
       </provider>

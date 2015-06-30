@@ -24,7 +24,27 @@ program without having to repeatedly go to the database.
 ```
 
 #How does your ORM help you get all of a particular table's rows from the database?
-An ORM can help you get all of a particular tables rows
+My ORM helps get back all rows of a table by selecting everything from the table and creating an object out of every row
+and then pushes each of these new objects into an array.
+
+
+```ruby
+        
+        def all
+            Figure out the table's name from the class we're calling the method on.
+            table_name = self.to_s.pluralize.underscore
+    
+            results = CONNECTION.execute("SELECT * FROM #{table_name}")
+    
+            results_as_objects = []
+    
+            results.each do |result_hash|
+             results_as_objects << self.new(result_hash)
+            end
+    
+        return results_as_objects
+      end
+```
 
 
 #How does your ORM represent rows from a table, given that Ruby doesn't have a Table data structure?
